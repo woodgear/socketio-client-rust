@@ -1,5 +1,5 @@
 [package]
-name = "socketio_client_rust"
+name = "socketio-client-rust"
 version = "0.1.0"
 authors = ["wucong <1875486458@qq.com>"]
 edition = "2018"
@@ -10,4 +10,4 @@ futures = "0.1.27"
 tokio = "0.1.21"
 failure = "0.1.5"
 log = "0.4.6"
-simplelog = "0.5.3"
+serde_json = "1.0.39"
